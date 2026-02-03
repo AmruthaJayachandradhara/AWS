@@ -11,5 +11,6 @@ Key benefits include:
 3. Secure Storage: Reliable and encrypted storage of sensitive patient records
 
 🏗️ Project Architecture
+<img src="AWS/Architecture.png" alt="Architecture" width="400">
 
 
