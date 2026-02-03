@@ -47,4 +47,4 @@ Anomaly detected for patient p4 Vital Signs: HR=142, SpO2=96, BP=155/97 Risk Lev
 
 <img src="Output.png" alt="Architecture" width="400">
 
-
+**Note:The live environment is currently offline to manage operating expenses**
