@@ -44,6 +44,7 @@ The system utilizes a fully serverless and automated workflow on AWS.
 When a critical anomaly is detected, the system sends an automated alert:
 Anomaly detected for patient p4 Vital Signs: HR=142, SpO2=96, BP=155/97 Risk Level: Critical
 [ALERT] Patient p4 - CRITICAL 
+
 <img src="Output.png" alt="Architecture" width="400">
 
 
