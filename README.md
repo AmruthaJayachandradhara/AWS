@@ -41,4 +41,6 @@ When a critical anomaly is detected, the system sends an automated alert:
 [ALERT] Patient p4 - CRITICAL 
 Anomaly detected for patient p4 Vital Signs: HR=142, SpO2=96, BP=155/97 Risk Level: Critical
 
+<img src="Output.png" alt="Architecture" width="400">
+
 
